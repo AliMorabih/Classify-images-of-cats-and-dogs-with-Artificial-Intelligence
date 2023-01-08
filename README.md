@@ -1,10 +1,10 @@
 # Classify-images-of-cats-and-dogs-with-Artificial-Intelligence
-Convolutional neural network using the Keras API in TensorFlow to classify images of cats and dogs. 
+Using Convolutional neural network as machine learning algorithm including the Keras API in TensorFlow to classify images of cats and dogs. 
 
 
-Using a large and diverse dataset is crucial for the model to learn to classify images accurately, So i have upload 10000 images for dogs and cats  
+ I have used a large and diverse dataset because is crucial for the model to learn to classify images accurately, So i have upload 10000 images for dogs and cats  
 
-Tune the hyperparameters: The performance of a machine learning model can be sensitive to the choice of hyperparameters.
+ The hyperparameters: The performance of a machine learning model can be sensitive to the choice of hyperparameters.
  In this case, some hyperparameters that i consider like tuning include the learning rate, the batch size, and the number of epochs.
 
 I have tried different architectures for CNN to see if i can find one that performs better on my dataset to get better accuracy.
